@@ -9,7 +9,7 @@ Juego de la serpiente donde tienes que comerte el punto rojo
 <summary><strong>Características especiales</strong></summary>
 <br>
 
-   + Habilita las opciones de desarrollador con 
+   + Habilita las opciones de desarrollador pulsando la tecla 
       `D`
 
 </details>
