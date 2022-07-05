@@ -14,8 +14,6 @@ Juego de la serpiente donde tienes que comerte el punto rojo
 
 </details>
 
-<br>
-
 
 ###### Java Version : &nbsp; &nbsp; &nbsp;  JDK 1.8
 
